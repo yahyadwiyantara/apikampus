@@ -1,0 +1,52 @@
+{
+    "kampus": [
+        {
+            "id": 1,
+            "first_name": "Institut Teknologi Bandung",
+            "last_name": "Kota Bandung, Jawa Barat",
+            "image": "img/Institut Teknologi Bandung.jpg",
+            "link": "https://id.wikipedia.org/wiki/Institut_Teknologi_Bandung"
+          },
+          {
+            "id": 2,
+            "first_name": "Institut Teknologi Sepuluh Nopember",
+            "last_name": "Kota Surabaya, Jawa Timur",
+            "image": "img/Institut Teknologi Sepuluh Nopember.jpg",
+            "link": "https://id.wikipedia.org/wiki/Institut_Teknologi_Sepuluh_Nopember"
+          },
+          {
+            "id": 3,
+            "first_name": "Universitas Airlangga",
+            "last_name": "Kota Surabaya, Jawa Timur",
+            "image": "img/Universitas Airlangga.jpg",
+            "link": "https://id.wikipedia.org/wiki/Universitas_Airlangga"
+          },
+          {
+            "id": 4,
+            "first_name": "Universitas Brawijaya",
+            "last_name": "Kota Malang",
+            "image": "img/Universitas Brawijaya.jpg",
+            "link": "https://id.wikipedia.org/wiki/Universitas_Brawijaya"
+          },
+          {
+            "id": 5,
+            "first_name": "Universitas Gadjah Mada",
+            "last_name": "Kota Sleman, DI Yogyakarta",
+            "image": "img/Universitas Gadjah Mada.jpg",
+            "link": "https://id.wikipedia.org/wiki/Universitas_Gadjah_Mada"
+          },
+          {
+            "id": 6,
+            "first_name": "Universitas Indonesia",
+            "last_name": "Kota Depok, Jawa Barat",
+            "image": "img/Universitas Indonesia.jpg",
+            "link": "https://id.wikipedia.org/wiki/Universitas_Indonesia"
+          },
+          {
+            "id": 7,
+            "first_name": "Universitas Padjadjaran",
+            "last_name": "Kota Bandung, Jawa Barat",
+            "image": "img/Universitas Padjadjaran.jpg",
+            "link": "https://id.wikipedia.org/wiki/Universitas_Padjadjaran"
+          }
+  ]}
